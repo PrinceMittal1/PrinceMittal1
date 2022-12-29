@@ -6,6 +6,7 @@
 <p>🌱 I’m currently learning react native</p>
 <p>📫 How to reach me princemittal345@gmail.com</p>
 <p>⚡ having proficency in react frontend</p>
+<p>Learning about new techonolgy is the most motivating for me</p>
 <div><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-1024.png"  height="15px" width="15px"/> <a href="https://www.linkedin.com/in/mrraaz/">&nbsp;Linkedin</a></div>
 
 <br><br>
