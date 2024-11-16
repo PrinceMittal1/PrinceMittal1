@@ -4,8 +4,8 @@
 <img align="right" alt="Coding" width="400" style="border-radius:50%;" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif" />
 <p>👀 I’m a React Native developer</p>
 <p>🌱 With two year of experience with React Native</p>
-<p>📫 reach me at princemittal345@gmail.com</p>
-<p>⚡ proficient in react-native frontend</p>
+<p>📫 Reach me at princemittal345@gmail.com</p>
+<p>⚡ Proficient in react-native frontend</p>
 <p>Learning about new techonolgy is the most motivating for me</p>
 <div><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-1024.png"  height="15px" width="15px"/> <a href="https://www.linkedin.com/in/prince-mittal-708766255/">&nbsp;Linkedin</a> </div>
 <div><a href="https://drive.google.com/file/d/1YH9aCiej1DXZ15GEJJffdu_u9euByOPZ/view?usp=sharing">&nbsp;Resume</a></div>
